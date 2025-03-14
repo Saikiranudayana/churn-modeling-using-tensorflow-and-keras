@@ -1,0 +1,2 @@
+this is a basic project for practicing the deep learning with the tensor flow and keara libs.
+using churn_modleing as dataset .this data set contains that based on some info the customer tis exited the bank or not.
